@@ -1,0 +1,39 @@
+_repo: A-Day-with-Walt-Whitman_36305
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Whitman, Walt
+    alias: Whitman, Walter
+    birthdate: 1819
+    deathdate: 1892
+    gutenberg_agent_id: '600'
+    url: http://www.gutenberg.org/2009/agents/600
+    wikipedia: http://en.wikipedia.org/wiki/Walt_Whitman
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Byron, May Clarissa Gillington
+    aliases:
+    - Gillington, May Clarissa
+    - Clare, Maurice
+    - Gillington, M. C. (May Clarissa)
+    deathdate: 1936
+    gutenberg_agent_id: '34616'
+    url: http://www.gutenberg.org/2009/agents/34616
+description: ''
+gutenberg_issued: '2011-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36305'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 19th century'
+- !lcsh 'Whitman, Walt, 1819-1892'
+- !lcc 'PS'
+title: A Day with Walt Whitman
+url: http://www.gutenberg.org/ebooks/36305
